@@ -86,4 +86,4 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - HackBio Intern
 - Tech enthusiast passionate about data science research in Epidemiology. 
  - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `SamAdeneye`
--  👋👉samueladeneye75@gmail.com
+- 👉samueladeneye75@gmail.com
